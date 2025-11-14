@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🧮 Simple JavaScript Counter
+</div>
 
 This is one of the first projects I made when I started learning JavaScript.  
 Out of pure curiosity, I created a **simple counter web app** with three buttons:
@@ -37,7 +38,7 @@ And the best part?
 
 ---
 
-</div>
+
 
 
 <img width="724" height="425" alt="image" src="https://github.com/user-attachments/assets/c4e60297-41e2-4974-b10f-c63dc3b5c766" />
